@@ -1,0 +1,10 @@
+{
+  "shotcut": {
+    "purpose": "Full non-linear video editor (multitrack, effects, keyframes, proxies, exports anything FFmpeg can write).",
+    "usage": [
+      "Use the portable zip: it does not touch the registry.",
+      "Turn on proxies (Settings > Proxy) for 4K footage.",
+      "Projects are MLT XML: a script can generate them and render them with `melt` without opening the interface."
+    ]
+  }
+}

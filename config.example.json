@@ -1,0 +1,8 @@
+{
+  "library_root": "library",
+  "apps_dir": "apps",
+  "catalogs": ["catalog.json"],
+  "recommendations": "recommendations.json",
+  "sevenzip": null,
+  "defender": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe"
+}

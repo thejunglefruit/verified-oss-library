@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+library/
+apps/
+config.json
+catalog.json
+recommendations.json
+*.part
+ESCANER.md
+SCAN.md

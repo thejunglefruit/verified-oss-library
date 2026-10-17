@@ -88,8 +88,4 @@ The suite makes no network calls and installs nothing: downloads are `file://` U
 
 Made by a motion and creative technologist working with AI agents. The library started as a way to let an agent fetch dozens of open-source creative tools without ever running an unverified binary on a working machine.
 
----
-
-**En español:** herramientas para mantener una biblioteca local de programas de código abierto en la que nada se instala sin verificar: descarga desde la fuente oficial, comprobación del SHA256 publicado, Microsoft Defender, un escáner estático de patrones de malware, cuarentena de lo sospechoso e instalación silenciosa solo de lo que pasa todo. Cada programa queda con su informe y un nivel VERDE / AMARILLO / ROJO.
-
 Licence: GPL-3.0-or-later (see `LICENSE`)

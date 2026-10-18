@@ -89,3 +89,5 @@ The suite makes no network calls and installs nothing: downloads are `file://` U
 Made by a motion and creative technologist working with AI agents. The library started as a way to let an agent fetch dozens of open-source creative tools without ever running an unverified binary on a working machine.
 
 Licence: GPL-3.0-or-later (see `LICENSE`)
+
+**Commercial licence.** If you want to use it in a closed product without the GPL obligations, a commercial licence is available: thejunglefruit@proton.me

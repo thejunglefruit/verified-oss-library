@@ -84,9 +84,9 @@ python -m pytest
 
 The suite makes no network calls and installs nothing: downloads are `file://` URLs to fake local files, GitHub and winget answers are fixtures, `git clone` and Defender are replaced with monkeypatch. It covers SHA match and mismatch, the quarantine and cleaning policy, refusal of plain http, winget output in two languages, zip-slip, installer detection, safety levels, the status summary, the launcher's command chains and the analyzer. One test runs the scanner over this repository and expects zero HIGH findings.
 
-## Built with AI-assisted workflows
+## About
 
-Made by a motion and creative technologist working with AI agents. The library started as a way to let an agent fetch dozens of open-source creative tools without ever running an unverified binary on a working machine.
+Made by The Jungle Fruit, a motion and creative technologist. The library started as a way to fetch dozens of open-source creative tools without ever running an unverified binary on a working machine.
 
 Licence: GPL-3.0-or-later (see `LICENSE`)
 
